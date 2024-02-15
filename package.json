@@ -1,0 +1,21 @@
+{
+  "name": "sanity-query-test",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsx main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nuxtjs/sanity": "^1.8.3",
+    "@sanity/client": "^6.13.3",
+    "@types/node": "^20.11.18",
+    "dotenv": "^16.4.4",
+    "tsx": "^4.7.1",
+    "typescript": "^5.3.3"
+  }
+}
