@@ -12,9 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "@nuxtjs/sanity": "^1.8.3",
-    "@sanity/client": "^6.13.3",
-    "@types/node": "^20.11.18",
-    "dotenv": "^16.4.4",
+    "@sanity/client": "^6.15.1",
+    "@types/node": "^20.11.24",
+    "dotenv": "^16.4.5",
     "tsx": "^4.7.1",
     "typescript": "^5.3.3"
   }
